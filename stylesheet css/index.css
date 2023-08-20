@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(130, 126, 236);
+    background-color: rgb(174, 174, 255);
   }
   
   h1 {
@@ -8,7 +8,7 @@ body {
   }
   
   p {
-    font-family: verdana;
+    font-family: inter;
     font-size: 20px;
   }
  
